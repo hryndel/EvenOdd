@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EvenOdd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textPCCount">0</string>
+    <string name="textPlayerCount">0</string>
+    <string name="textButtonStart">СТАРТ</string>
+    <string name="textButtonExit">ВЫХОД</string>
+
+    <string name="textFirst">0</string>
+    <string name="textSecond">0</string>
+    <string name="textThird">0</string>
+    <string name="textSum">0</string>
+    <string name="textEven">Четное</string>
+    <string name="textOdd">Нечетное</string>
+
+    <string name="textComputer">Компьютер</string>
+
+    <string name="textPlayer">Игрок</string>
+</resources>
